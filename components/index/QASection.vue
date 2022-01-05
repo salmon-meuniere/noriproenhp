@@ -7,7 +7,7 @@
                 <ul class="faq__list">
                     <li class="faq__item"><button class="faq__question" id="faq__question1" @click="qa1 = !qa1" :aria-expanded="qa1.toString()" aria-controls="faq__answer1"><i class="faq__icon">Q</i>
                             <div class="faq__question__wrap">
-                                <p class="text">Fan Work Guidelines</p>
+                                <p class="text">Fan Work Guidelines (Derivative Work Guidelines)</p>
                             </div>
                         </button>
                         <div class="faq__answer" id="faq__answer1" :aria-hidden="(!qa1).toString()"><i class="faq__icon">A</i>
