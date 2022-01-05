@@ -1,0 +1,107 @@
+{
+    "inuyama": {
+        "name": "Inuyama Tamaki",
+        "gen": {
+            "nav": 0,
+            "real": 1
+        }
+    },
+    "shirayuki": {
+        "name": "Shirayuki Mishiro",
+        "gen": {
+            "nav": 1,
+            "real": 1
+        }
+    },
+    "enomiya": {
+        "name": "Enomiya Milk",
+        "gen": {
+            "nav": 1,
+            "real": 1
+        }
+    },
+    "kumagaya": {
+        "name": "Kumagaya Takuma",
+        "gen": {
+            "nav": 1,
+            "real": 1
+        }
+    },
+    "himesaki": {
+        "name": "Himesaki Yuzuru",
+        "gen": {
+            "nav": 1,
+            "real": 1
+        }
+    },
+    "hoozuki": {
+        "name": "Hoozuki Warabe",
+        "gen": {
+            "nav": 2,
+            "real": 2
+        }
+    },
+    "oma": {
+        "name": "Oma Kirara",
+        "gen": {
+            "nav": 2,
+            "real": 2
+        }
+    },
+    "kurumizawa": {
+        "name": "Kurumizawa Momo",
+        "gen": {
+            "nav": 2,
+            "real": 2
+        }
+    },
+    "yumeno": {
+        "name": "Yumeno Lilith",
+        "gen": {
+            "nav": 2,
+            "real": 2
+        }
+    },
+    "mirutani": {
+        "name": "Mirutani Nia",
+        "gen": {
+            "nav": 2,
+            "real": 2
+        }
+    },
+    "norio": {
+        "name": "Tsukudani Norio",
+        "gen": {
+            "nav": 0,
+            "real": -1
+        }
+    },
+    "beppy": {
+        "name": "Beppy",
+        "gen": {
+            "nav": 0,
+            "real": -1
+        }
+    },
+    "lovechan": {
+        "name": "Lovechan",
+        "gen": {
+            "nav": 0,
+            "real": -1
+        }
+    },
+    "yurika": {
+        "name": "Yurika",
+        "gen": {
+            "nav": 0,
+            "real": -1
+        }
+    },
+    "muse": {
+        "name": "Muse",
+        "gen": {
+            "nav": 0,
+            "real": -2
+        }
+    }
+}

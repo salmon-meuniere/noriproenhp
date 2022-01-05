@@ -1,0 +1,29 @@
+{
+    "gen": "s",
+    "name": {
+        "ja": "べっぴー",
+        "en": "Beppy"
+    },
+    "images": {
+        "mainVisualCount": 1
+    },
+    "copy": "NoriPro Manager",
+    "links": {
+        "twitter": {
+            "name": "べっぴー🍀のりプロマネージャー",
+            "link": "https://twitter.com/beppy_manager"
+        }
+    },
+    "worker": [
+        {
+            "role": "Illustrator",
+            "name": "Himesaki Yuzuru"
+        }
+    ],
+    "descriptions": {
+        "mainCopy": "Please get along with the cuties of NoriPro today! \nI'm Beppy, the manager of NoriPro!",
+        "subDescription": "General manager of Noripro. \nShe provides daily support for Norio's mom and NoriPro. \nShe is a real married woman and has one child. \nShe can understand some sort of \"internet memes.\""
+    },
+    "mv": [
+    ]
+}

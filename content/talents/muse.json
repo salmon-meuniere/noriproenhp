@@ -1,0 +1,29 @@
+{
+    "gen": "m",
+    "name": {
+        "ja": "ミューズ",
+        "en": "Muse"
+    },
+    "images": {
+        "mainVisualCount": 1
+    },
+    "copy": "NoriPro Exclusive 3D Modeler",
+    "links": {
+        "twitter": {
+            "name": "ミューズ🗽のりプロ3Dモデラー",
+            "link": "https://twitter.com/3d_muse"
+        }
+    },
+    "worker": [
+        {
+            "role": "Illustrator",
+            "name": "Himesaki Yuzuru"
+        }
+    ],
+    "descriptions": {
+        "mainCopy": "Um... (Socially awkward movement) \nWell, I am the God of 3D! \nPlease go and see my genius in 3D.",
+        "subDescription": "NoriPro's exclusive 3D modeler. \nShe said to be a goddess of producing high quality 3D models. \nShe has a communicative disorder and a kitchen disease side. \nHer nickname is \"Myusan (みゅっさん) \"."
+    },
+    "mv": [
+    ]
+}

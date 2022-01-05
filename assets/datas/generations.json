@@ -1,0 +1,50 @@
+[
+    {
+        "class": "origin",
+        "priority": 0,
+        "id": "o",
+        "secName": ""
+    },
+    {
+        "class": "first",
+        "priority": 1,
+        "id": 1,
+        "secName": "1st Generation"
+    },
+    {
+        "class": "second",
+        "priority": 2,
+        "id": 2,
+        "secName": "2nd Generation"
+    },
+    {
+        "class": "gamers",
+        "priority": 3,
+        "id": "g",
+        "secName": "Gamers"
+    },
+    {
+        "class": "manager",
+        "priority": 4,
+        "id": "s",
+        "secName": "Managers"
+    },
+    {
+        "class": "modeler",
+        "priority": 5,
+        "id": "m",
+        "secName": "3D Modeler"
+    },
+    {
+        "class": "movie",
+        "priority": 6,
+        "id": "c",
+        "secName": "Movie Creator"
+    },
+    {
+        "class": "president",
+        "priority": 7,
+        "id": "p",
+        "secName": "Owner"
+    }
+]

@@ -1,0 +1,38 @@
+{
+    "gen": {
+        "nav": 1,
+        "actual": 1
+    },
+    "name": {
+        "ja": "姫咲ゆずる",
+        "en": "Himesaki Yuzuru",
+        "zh": "姫咲柚流"
+    },
+    "images": {
+        "mainVisualCount": 2
+    },
+    "branch": "Idol",
+    "copy": "Virtual Artist",
+    "links": {
+        "youtube": {
+            "name": "姫咲ゆずる Himesaki Yuzuru",
+            "link": "https://www.youtube.com/channel/UCle1cz6rcyH0a-xoMYwLlAg"
+        },
+        "twitter": {
+            "name": "姫咲ゆずる🐰✍️",
+            "link": "https://twitter.com/Himesaki_yuzuru"
+        },
+        "bilibili": {
+            "name": "姬咲柚流Official",
+            "link": "https://space.bilibili.com/493724848/"
+        }
+    },
+    "worker": [
+    ],
+    "descriptions": {
+        "mainCopy": "Hello, everyone! Konhime!\nI'm Himesaki Yuzuru, a virtual artist from NoriPro!",
+        "subDescription": "She has professional level drawing skills.\nThere are rumors that she is actually a professional.\nAlthough she has a timid side, she is a serious person who works hard at everything she does."
+    },
+    "mv": [
+    ]
+}

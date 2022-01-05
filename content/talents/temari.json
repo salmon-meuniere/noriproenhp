@@ -1,0 +1,29 @@
+{
+    "gen": "c",
+    "name": {
+        "ja": "手鞠カルタ",
+        "en": "Temari Carta"
+    },
+    "images": {
+        "mainVisualCount": 1
+    },
+    "copy": "NoriPro Exclusive Video Creator",
+    "links": {
+        "twitter": {
+            "name": "手鞠カルタ🎥のりプロ専属動画師",
+            "link": "https://twitter.com/temaricarta"
+        }
+    },
+    "worker": [
+        {
+            "role": "Illustrator",
+            "name": "Himesaki Yuzuru"
+        }
+    ],
+    "descriptions": {
+        "mainCopy": "Yay! I'm Temari Carta!!! \nI'm going to study a lot and do my best \nso that I can make more and more wonderful videos!",
+        "subDescription": "NoriPro's exclusive video creator. \nShe came to Noripro as a fellow video creator of Hoozuki Warabe. \nWith her amazing video skills, she has made many videos for NoriPro."
+    },
+    "mv": [
+    ]
+}

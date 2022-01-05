@@ -1,0 +1,34 @@
+{
+    "gen": 2,
+    "name": {
+        "ja": "胡桃澤もも",
+        "en": "Kurumizawa Momo"
+    },
+    "images": {
+        "mainVisualCount": 1
+    },
+    "branch": "Idol",
+    "copy": "Magical Girl Trainee",
+    "links": {
+        "youtube": {
+            "name": "胡桃澤ももKurumizawa Momo",
+            "link": "https://www.youtube.com/channel/UCxrmkJf_X1Yhte_a4devFzA"
+        },
+        "twitter": {
+            "name": "胡桃澤もも🎀🌟",
+            "link": "https://twitter.com/kurumizawamomo"
+        }
+    },
+    "worker": [
+        {
+            "role": "Illustrator",
+            "name": "Sakura Shiori"
+        }
+    ],
+    "descriptions": {
+        "mainCopy": "Wishing upon the spirits of the stars shining in the heavens...\nTwinkle-twinkle!\nGreat Grand Wizard Leo, please lend me your power!",
+        "subDescription": "A magical girl who attends a magical girl training school.\nShe is an honors student and decided to challenge herself \nas a Vtuber in the human world for her graduation exam."
+    },
+    "mv": [
+    ]
+}

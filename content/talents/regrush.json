@@ -1,0 +1,29 @@
+{
+    "gen": "g",
+    "name": {
+        "ja": "レグルシュ・ライオンハート",
+        "en": "Regrush Lionheart"
+    },
+    "images": {
+        "mainVisualCount": 1
+    },
+    "copy": "Shy ex-Princess of the Beastman Tribe",
+    "links": {
+        "twitter": {
+            "name": "レグルシュ・ライオンハート🔔🐾",
+            "link": "https://twitter.com/Reg_Lionheart"
+        }
+    },
+    "worker": [
+        {
+            "role": "Illustrator",
+            "name": "Kanda Done"
+        }
+    ],
+    "descriptions": {
+        "mainCopy": "Grrreetings! \nI'm Regrush Lionheart, a member of NoriPro Gamers! \nI'll be counting on you!",
+        "subDescription": "A former princess of the royal Lionheart family who ran away \nfrom her home in the human world \nfrom a different world inhabited by beastmen. \nShe wants to make many friends through VTuber activities \nand fix her introverted personality."
+    },
+    "mv": [
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "gen": "s",
+    "name": {
+        "ja": "らぶちゃん",
+        "en": "Lovechan"
+    },
+    "images": {
+        "mainVisualCount": 1
+    },
+    "copy": "NoriPro Manager",
+    "links": {
+        "twitter": {
+            "name": "らぶちゃん💟のりプロマネージャー",
+            "link": "https://twitter.com/llove_manager"
+        }
+    },
+    "worker": [
+        {
+            "role": "Illustrator",
+            "name": "Himesaki Yuzuru"
+        }
+    ],
+    "descriptions": {
+        "mainCopy": "I'm always watching over all of our members! I LOVE them all! \nI'm Lovechan, a manager of NoriPro!",
+        "subDescription": "Sub-manager of Noripro. \nShe watches over the NoriPro members' streams and manages the official Twitter account.\nShe's a bit of otaku, and her love for NoriPro members sometimes drives her crazy."
+    },
+    "mv": [
+    ]
+}

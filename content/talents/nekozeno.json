@@ -1,0 +1,29 @@
+{
+    "gen": "g",
+    "name": {
+        "ja": "猫瀬乃しん",
+        "en": "Nekozeno Shin"
+    },
+    "images": {
+        "mainVisualCount": 1
+    },
+    "copy": "Phantom Thief with Cat Ears",
+    "links": {
+        "twitter": {
+            "name": "猫瀬乃しん🐈🎩",
+            "link": "https://twitter.com/nekozenoshin"
+        }
+    },
+    "worker": [
+        {
+            "role": "Illustrator",
+            "name": "TCB"
+        }
+    ],
+    "descriptions": {
+        "mainCopy": "I'm coming to steal your heart tonight. \nNekozeno Shin, a member of NoriPro Gamers here!",
+        "subDescription": "He changes his tone of voice and sneaks up on you night after night.\nTo bring out your beautiful smile, that's what makes him a thief.\nHe likes games, singing, and women like sake."
+    },
+    "mv": [
+    ]
+}

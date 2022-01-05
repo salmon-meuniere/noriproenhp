@@ -1,0 +1,29 @@
+{
+    "gen": "g",
+    "name": {
+        "ja": "稲荷いろは",
+        "en": "Inari Iroha"
+    },
+    "images": {
+        "mainVisualCount": 1
+    },
+    "copy": "Loneliness-hate Goddess of the Fox",
+    "links": {
+        "twitter": {
+            "name": "稲荷いろは🦊🍂",
+            "link": "https://twitter.com/inariiroha_"
+        }
+    },
+    "worker": [
+        {
+            "role": "Illustrator",
+            "name": "Guchico"
+        }
+    ],
+    "descriptions": {
+        "mainCopy": "I-Hello! \nI'm Inari Iroha, a member of NoriPro Gamers!",
+        "subDescription": "A Fox goddess who loves games and humankind.\nShe became streamer to attract new worshippers to her shrine. \nShe hates loneliness. In fact, she joined to NoriPro \nto meet her friend, Warabe."
+    },
+    "mv": [
+    ]
+}

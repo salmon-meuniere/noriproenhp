@@ -1,0 +1,34 @@
+{
+    "gen": 2,
+    "name": {
+        "ja": "看谷にぃあ",
+        "en": "Mirutani Nia"
+    },
+    "images": {
+        "mainVisualCount": 1
+    },
+    "branch": "Idol",
+    "copy": "Klutz Nurse Fairy",
+    "links": {
+        "youtube": {
+            "name": "看谷にぃあ Mirutani nia",
+            "link": "https://www.youtube.com/channel/UCIRzELGzTVUOARi3Gwf1-yg"
+        },
+        "twitter": {
+            "name": "看谷にぃあ🌙💗",
+            "link": "https://twitter.com/mirutani_nia"
+        }
+    },
+    "worker": [
+        {
+            "role": "Illustrator",
+            "name": "jimmy"
+        }
+    ],
+    "descriptions": {
+        "mainCopy": "May you be happy today!\nI'm Mirutani Nia, a nurse trainee fairy and a Gen-2 of NoriPro!",
+        "subDescription": "An apprentice nurse who came from the fairy world to help heal the human world.\nHowever, she is klutz and she doesn't understand anything about medical.\nShe says she has the fairy power to deliver healing through her guitar playing."
+    },
+    "mv": [
+    ]
+}

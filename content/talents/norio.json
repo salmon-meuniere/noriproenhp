@@ -1,0 +1,33 @@
+{
+    "gen": "p",
+    "name": {
+        "ja": "佃煮のりお",
+        "en": "Tsukudani Norio"
+    },
+    "images": {
+        "mainVisualCount": 1
+    },
+    "copy": "Proffesional Manga Artist / Owner of NoriPro",
+    "links": {
+        "youtube": {
+            "name": "佃煮のりおちゃんねる【犬山たまき】",
+            "link": "https://www.youtube.com/channel/UC8NZiqKx6fsDT3AVcMiVFyA"
+        },
+        "twitter": {
+            "name": "佃煮のりお/犬山たまき🐶💙",
+            "link": "https://twitter.com/norioo_"
+        },
+        "bilibili": {
+            "name": "犬山玉姬Official",
+            "link": "https://space.bilibili.com/12362451"
+        }
+    },
+    "worker": [
+    ],
+    "descriptions": {
+        "mainCopy": "Norio-Ikeru! \nI'm Tsukudani Norio, a manga artist and owner of NoriPro. \nI'm eternal 17-year-old♡",
+        "subDescription": "Owner of NoriPro and a professional manga artist.\n She entered the VTuber industry when he produced Inuyama Tamaki. \nHer representative works as a manga artist are \"SECRET PRINCESS HIMEGOTO\" \nand \"Futaba's Family Twins\", both of which have been made into anime. \nHer manga business is currently closed."
+    },
+    "mv": [
+    ]
+}

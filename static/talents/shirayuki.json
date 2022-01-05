@@ -1,0 +1,39 @@
+{
+    "gen": {
+        "nav": 1,
+        "actual": 1
+    },
+    "name": {
+        "ja": "白雪みしろ",
+        "en": "Shirayuki Mishiro",
+        "zh": "白雪深白"
+    },
+    "images": {
+        "mainVisualCount": 3
+    },
+    "branch": "Idol",
+    "copy": "Virtual Maid",
+    "links": {
+        "youtube": {
+            "name": "白雪みしろ Shirayuki Mishiro",
+            "link": "https://www.youtube.com/channel/UCC0i9nECi4Gz7TU63xZwodg"
+        },
+        "twitter": {
+            "name": "白雪みしろ🐶❄",
+            "link": "https://twitter.com/mishiro_seiso"
+        },
+        "bilibili": {
+            "name": "白雪深白Official",
+            "link": "https://space.bilibili.com/405981431"
+        }
+    },
+    "worker": [
+    ],
+    "descriptions": {
+        "mainCopy": "Master, Konshiro!\nI hope that I can bring you a moment of healing.\nI'm Shirayuki Mishiro from NoriPro!",
+        "subDescription": "Virtual maid with dog ears. Struggling every day to bring healing to her master.\nShe is good at housework in general, but her favorite is cleaning.\nShe help people heal mainly by acting and ASMR."
+    },
+    "mv": [
+        "8OBWMrR8OIk"
+    ]
+}

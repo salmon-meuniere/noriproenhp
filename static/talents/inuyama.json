@@ -1,0 +1,49 @@
+{
+    "gen": {
+        "nav": 0,
+        "actual": 1
+    },
+    "name": {
+        "ja": "犬山たまき",
+        "en": "Inuyama Tamaki",
+        "zh": "犬山玉姫"
+    },
+    "images": {
+        "mainVisualCount": 3
+    },
+    "branch": "Variety",
+    "copy": "Trap VTuber",
+    "links": {
+        "youtube": {
+            "name": "佃煮のりおちゃんねる【犬山たまき】",
+            "link": "https://www.youtube.com/channel/UC8NZiqKx6fsDT3AVcMiVFyA"
+        },
+        "twitter": {
+            "name": "佃煮のりお/犬山たまき🐶💙",
+            "link": "https://twitter.com/norioo_"
+        },
+        "bilibili": {
+            "name": "犬山玉姬Official",
+            "link": "https://space.bilibili.com/12362451"
+        }
+    },
+    "worker": [
+        {
+            "role": "Illustrator",
+            "name": "Tsukudani Norio"
+        },
+        {
+            "role": "2.0 Updater",
+            "name": "Himesaki Yuzuru"
+        }
+    ],
+    "descriptions": {
+        "mainCopy": "Hello, Master! Wantama!\nI'm Inuyama Tamaki, a Trap VTuber!",
+        "subDescription": "He is a trap VTuber (male.) He likes to talk, sing, and do unusual things.\nHe's working hard every day, being used by Norio.\nHe likes cute people, and has a dominant and menacing side."
+    },
+    "mv": [
+        "CTh-yBLpHqI",
+        "8LoBU5hj6zs",
+        "BAM3XXGzX9M"
+    ]
+}
