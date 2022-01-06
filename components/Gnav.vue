@@ -10,49 +10,49 @@
         <nav class="globalHeader__nav">
             <ul class="globalHeader__navList">
                 <li class="globalHeader__navItem">
-                    <nuxt-link class="globalHeader__navLink" to="/#about" data-scroll>
+                    <nuxt-link @click.native="isExpanded = false" class="globalHeader__navLink" to="/#about" data-scroll>
                         <p class="globalHeader__navLabelMain">ABOUT US</p>
                         <p class="globalHeader__navLabelSub"></p>
                     </nuxt-link>
                 </li>
                 <li class="globalHeader__navItem">
-                    <nuxt-link class="globalHeader__navLink" to="/#talent" data-scroll>
+                    <nuxt-link @click.native="isExpanded = false" class="globalHeader__navLink" to="/#talent" data-scroll>
                         <p class="globalHeader__navLabelMain">TALENTS</p>
                         <p class="globalHeader__navLabelSub"></p>
                     </nuxt-link>
                 </li>
                 <li class="globalHeader__navItem">
-                    <nuxt-link class="globalHeader__navLink" to="/#comic" data-scroll>
+                    <nuxt-link @click.native="isExpanded = false" class="globalHeader__navLink" to="/#comic" data-scroll>
                         <p class="globalHeader__navLabelMain">COMIC</p>
                         <p class="globalHeader__navLabelSub"></p>
                     </nuxt-link>
                 </li>
                 <li class="globalHeader__navItem">
-                    <nuxt-link class="globalHeader__navLink" to="/#mv" data-scroll>
+                    <nuxt-link @click.native="isExpanded = false" class="globalHeader__navLink" to="/#mv" data-scroll>
                         <p class="globalHeader__navLabelMain">MV</p>
                         <p class="globalHeader__navLabelSub"></p>
                     </nuxt-link>
                 </li>
                 <li class="globalHeader__navItem">
-                    <nuxt-link class="globalHeader__navLink" to="/#goods" data-scroll>
+                    <nuxt-link @click.native="isExpanded = false" class="globalHeader__navLink" to="/#goods" data-scroll>
                         <p class="globalHeader__navLabelMain">MERCH</p>
                         <p class="globalHeader__navLabelSub"></p>
                     </nuxt-link>
                 </li>
                 <li class="globalHeader__navItem">
-                    <nuxt-link class="globalHeader__navLink" to="/#news" data-scroll>
+                    <nuxt-link @click.native="isExpanded = false" class="globalHeader__navLink" to="/#news" data-scroll>
                         <p class="globalHeader__navLabelMain">NEWS</p>
                         <p class="globalHeader__navLabelSub"></p>
                     </nuxt-link>
                 </li>
                 <li class="globalHeader__navItem">
-                    <nuxt-link class="globalHeader__navLink" to="/#faq" data-scroll>
+                    <nuxt-link @click.native="isExpanded = false" class="globalHeader__navLink" to="/#faq" data-scroll>
                         <p class="globalHeader__navLabelMain">FAQ</p>
                         <p class="globalHeader__navLabelSub"></p>
                     </nuxt-link>
                 </li>
                 <li class="globalHeader__navItem">
-                    <nuxt-link class="globalHeader__navLink" to="/#contact" data-scroll>
+                    <nuxt-link @click.native="isExpanded = false" class="globalHeader__navLink" to="/#contact" data-scroll>
                         <p class="globalHeader__navLabelMain">CONTACT</p>
                         <p class="globalHeader__navLabelSub"></p>
                     </nuxt-link>
