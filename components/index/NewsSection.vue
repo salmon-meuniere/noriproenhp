@@ -61,7 +61,7 @@ export default {
             }
             const h = new Date(realGmtT);
             return [
-                h.getFullYear(),
+                h.getFullYear().toString() + '.',
                 (h.getMonth() + 1).toString().padStart(2, "0") + "." + h.getDate().toString().padStart(2, "0")
             ];
         }
