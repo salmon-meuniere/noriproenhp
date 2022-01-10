@@ -19,7 +19,7 @@
 export default {
     data() {
         return {
-            coverLimit: 3,
+            coverLimit: 1,
             chosenCover: '00'
         }
     },
