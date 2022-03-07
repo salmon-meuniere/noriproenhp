@@ -1,0 +1,47 @@
+[
+    {
+        "title": "ABOUT US",
+        "to": "/#about",
+        "scroll": true
+    },
+    {
+        "title": "TALENTS",
+        "to": "/#talent",
+        "scroll": true
+    },
+    {
+        "title": "COMIC",
+        "to": "/#comic",
+        "scroll": true
+    },
+    {
+        "title": "MV",
+        "to": "/#mv",
+        "scroll": true
+    },
+    {
+        "title": "MERCH",
+        "to": "/#goods",
+        "scroll": true
+    },
+    {
+        "title": "NEWS",
+        "to": "/#news",
+        "scroll": true
+    },
+    {
+        "title": "FAQ",
+        "to": "/#faq",
+        "scroll": true
+    },
+    {
+        "title": "CONTACT",
+        "to": "/#contact",
+        "scroll": true
+    },
+    {
+        "title": "SCHEDULE",
+        "href": "https://schedule.noripro.jp/",
+        "scroll": false
+    }
+]

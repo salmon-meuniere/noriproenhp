@@ -10,7 +10,7 @@
                     </header>
                     <ul class="page-mv__list">
                         <li class="page-mv__item" v-for="id in mv" :key="id">
-                            <iframe class="page-mv__iframe" :src="'https://www.youtube.com/embed/' + id + '?controls=0'" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe class="page-mv__iframe" :src="'https://www.youtube.com/embed/' + id + '?controls=0&amp;hl=en'" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <!--p.page-mv__title #{item.title}-->
                         </li>
                     </ul>

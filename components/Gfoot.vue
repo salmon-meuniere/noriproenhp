@@ -23,29 +23,9 @@
             <div class="globalFooter__nav">
                 <h2 class="globalFooter__label">Menu</h2>
                 <ul class="globalFooter__navList">
-                    <li class="globalFooter__navItem">
-                        <a class="globalFooter__navLink" href="#about"></a>
-                    </li>
-                    <li class="globalFooter__navItem">
-                        <a class="globalFooter__navLink" href="#talent"></a>
-                    </li>
-                    <li class="globalFooter__navItem">
-                        <a class="globalFooter__navLink" href="#comic"></a>
-                    </li>
-                    <li class="globalFooter__navItem">
-                        <a class="globalFooter__navLink" href="#mv"></a>
-                    </li>
-                    <li class="globalFooter__navItem">
-                        <a class="globalFooter__navLink" href="#goods"></a>
-                    </li>
-                    <li class="globalFooter__navItem">
-                        <a class="globalFooter__navLink" href="#news"></a>
-                    </li>
-                    <li class="globalFooter__navItem">
-                        <a class="globalFooter__navLink" href="#faq"></a>
-                    </li>
-                    <li class="globalFooter__navItem">
-                        <a class="globalFooter__navLink" href="#contact"></a>
+                    <li class="globalFooter__navItem" v-for="item in navCont" :key="item.title">
+                        <nuxt-link v-if="item.to != null" class="globalFooter__navLink" :to="item.to">{{item.title}}</nuxt-link>
+                        <a v-else class="globalFooter__navLink" :href="item.href" target="_blank" rel="noopener">{{item.title}}</a>
                     </li>
                 </ul>
             </div>
@@ -67,11 +47,17 @@
     </footer>
 </template>
 <script>
+import navCont from "@/assets/datas/nav.json";
 export default {
     props: [
         "talents",
         "atalents"
     ],
+    data() {
+        return {
+            navCont
+        }
+    },
     computed: {
         allTalents() {
             if(this.atalents != null || this.atalents != [] || typeof this.atalents != "object") {

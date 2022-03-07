@@ -31,8 +31,11 @@
                             </ul>
                         </div>
                         <div class="illustrator__wrap">
-                            <p class="illustrator" v-for="item in talentsData.worker" :key="item.role">{{item.role}}: <span
-                                    class="illustrator__name">{{item.name}}</span></p>
+                            <p class="illustrator" v-for="item in talentsData.worker" :key="item.role">
+                                {{item.role}}: 
+                                <span v-if="item.link == null" class="illustrator__name">{{item.name}}</span>
+                                <a v-else class="illustrator__link" :href="item.link" target="_blank" rel="noopener">{{item.name}}</a>
+                            </p>
                         </div>
                         <div class="visualChange" v-if="talentsData.images.mainVisualCount > 1">
                             <ul class="visualChange__list">

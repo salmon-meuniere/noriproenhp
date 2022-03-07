@@ -17,6 +17,7 @@
                     <h3 class="header-border">Merch</h3>
                     <ul class="goods__categoryList">
                         <li class="goods__item"><a class="button-primary" href="https://shop.geekjack.net/pages/noripro" target="_blank" rel="noopener">Geek Jack</a></li>
+                        <li class="goods__item"><a class="button-primary" href="https://norio-t.booth.pm/" target="_blank" rel="noopener">BOOTH</a></li>
                     </ul>
                 </section>
                 <section class="goods__category line">

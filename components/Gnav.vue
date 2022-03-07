@@ -9,53 +9,15 @@
         </h1>
         <nav class="globalHeader__nav">
             <ul class="globalHeader__navList">
-                <li class="globalHeader__navItem">
-                    <nuxt-link @click.native="isExpanded = false" class="globalHeader__navLink" to="/#about" data-scroll>
-                        <p class="globalHeader__navLabelMain">ABOUT US</p>
-                        <p class="globalHeader__navLabelSub"></p>
+                <li class="globalHeader__navItem" v-for="item in navCont" :key="item.title">
+                    <nuxt-link v-if="item.to != null" @click.native="isExpanded = false" class="globalHeader__navLink" :to="item.to" data-scroll>
+                        <p class="globalHeader__navLabelMain">{{item.title}}</p>
+                        <p class="globalHeader__navLabelSub">{{item.subTitle}}</p>
                     </nuxt-link>
-                </li>
-                <li class="globalHeader__navItem">
-                    <nuxt-link @click.native="isExpanded = false" class="globalHeader__navLink" to="/#talent" data-scroll>
-                        <p class="globalHeader__navLabelMain">TALENTS</p>
-                        <p class="globalHeader__navLabelSub"></p>
-                    </nuxt-link>
-                </li>
-                <li class="globalHeader__navItem">
-                    <nuxt-link @click.native="isExpanded = false" class="globalHeader__navLink" to="/#comic" data-scroll>
-                        <p class="globalHeader__navLabelMain">COMIC</p>
-                        <p class="globalHeader__navLabelSub"></p>
-                    </nuxt-link>
-                </li>
-                <li class="globalHeader__navItem">
-                    <nuxt-link @click.native="isExpanded = false" class="globalHeader__navLink" to="/#mv" data-scroll>
-                        <p class="globalHeader__navLabelMain">MV</p>
-                        <p class="globalHeader__navLabelSub"></p>
-                    </nuxt-link>
-                </li>
-                <li class="globalHeader__navItem">
-                    <nuxt-link @click.native="isExpanded = false" class="globalHeader__navLink" to="/#goods" data-scroll>
-                        <p class="globalHeader__navLabelMain">MERCH</p>
-                        <p class="globalHeader__navLabelSub"></p>
-                    </nuxt-link>
-                </li>
-                <li class="globalHeader__navItem">
-                    <nuxt-link @click.native="isExpanded = false" class="globalHeader__navLink" to="/#news" data-scroll>
-                        <p class="globalHeader__navLabelMain">NEWS</p>
-                        <p class="globalHeader__navLabelSub"></p>
-                    </nuxt-link>
-                </li>
-                <li class="globalHeader__navItem">
-                    <nuxt-link @click.native="isExpanded = false" class="globalHeader__navLink" to="/#faq" data-scroll>
-                        <p class="globalHeader__navLabelMain">FAQ</p>
-                        <p class="globalHeader__navLabelSub"></p>
-                    </nuxt-link>
-                </li>
-                <li class="globalHeader__navItem">
-                    <nuxt-link @click.native="isExpanded = false" class="globalHeader__navLink" to="/#contact" data-scroll>
-                        <p class="globalHeader__navLabelMain">CONTACT</p>
-                        <p class="globalHeader__navLabelSub"></p>
-                    </nuxt-link>
+                    <a v-else @click="isExpanded = false" class="globalHeader__navLink" :href="item.href" target="_blank" rel="noopener">
+                        <p class="globalHeader__navLabelMain">{{item.title}}</p>
+                        <p class="globalHeader__navLabelMain">{{item.subTitle}}</p>
+                    </a>
                 </li>
             </ul>
         </nav>
@@ -65,10 +27,12 @@
     </header>
 </template>
 <script>
+import navCont from "@/assets/datas/nav.json";
 export default {
     data() {
         return {
-            isExpanded: false
+            isExpanded: false,
+            navCont
         }
     }
 }
