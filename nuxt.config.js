@@ -39,6 +39,16 @@ export default {
   plugins: [
   ],
 
+  router: {
+    extendRoutes(routes, resolve) {
+      routes.push({
+        path: '/*',
+        name: 'notFound',
+        component: resolve(__dirname, 'pages/404.vue')
+      })
+    }
+  },
+
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
 
