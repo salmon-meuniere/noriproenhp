@@ -2,7 +2,7 @@
     "gen": "g",
     "name": {
         "ja": "レグルシュ・ライオンハート",
-        "en": "Regrush Lionheart"
+        "en": "Reglush Lionheart"
     },
     "images": {
         "mainVisualCount": 1
@@ -22,8 +22,8 @@
         }
     ],
     "descriptions": {
-        "mainCopy": "Grrreetings! \nI'm Regrush Lionheart, a member of NoriPro Gamers! \nI'll be counting on you!",
-        "subDescription": "A former princess of the royal Lionheart family who ran away \nfrom her home in the human world \nfrom a different world inhabited by beastmen. \nShe wants to make many friends through VTuber activities \nand fix her introverted personality."
+        "mainCopy": "Grrreetings! \nI'm Reglush Lionheart, a member of NoriPro Gamers! \nI'll be counting on you!",
+        "subDescription": "A former princess of the royal Lionheart family who ran away from her home in the human world from a different world inhabited by beastmen. She wants to make many friends through VTuber activities and fix her introverted personality."
     },
     "mv": [
     ]

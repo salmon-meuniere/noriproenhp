@@ -1,4 +1,4 @@
-/*For ^v28 Overwrite*/
+/*For ^v36 Overwrite*/
 
 :root {
     --font-family-gothic: "Helvetica Neue","Arial","Hiragino Kaku Gothic ProN","Hiragino Sans",meiryo,sans-serif;
@@ -45,12 +45,12 @@ html[lang="en"] .cover__text {
 
 .talentList .p-talent__item.shirayuki .button-action__wrap,
 .talentList .p-talent__item.himesaki .button-action__wrap,
-.talentList .p-talent__item.regrush .button-action__wrap,
+.talentList .p-talent__item.reglush .button-action__wrap,
 .talentList .p-talent__item.kurumizawa .button-action__wrap,
 .talentList .p-talent__item.kumagaya .button-action__wrap,
 .talent .p-talent__item.shirayuki .button-action__wrap,
 .talent .p-talent__item.himesaki .button-action__wrap,
-.talent .p-talent__item.regrush .button-action__wrap,
+.talent .p-talent__item.reglush .button-action__wrap,
 .talent .p-talent__item.kurumizawa .button-action__wrap,
 .talent .p-talent__item.kumagaya .button-action__wrap {
     font-size: calc(var(--small-font-size)*0.85);
@@ -95,12 +95,12 @@ html[lang="en"] .cover__text {
     }
     .talentList .p-talent__item.shirayuki .button-action__wrap,
     .talentList .p-talent__item.himesaki .button-action__wrap,
-    .talentList .p-talent__item.regrush .button-action__wrap,
+    .talentList .p-talent__item.reglush .button-action__wrap,
     .talentList .p-talent__item.kurumizawa .button-action__wrap,
     .talentList .p-talent__item.kumagaya .button-action__wrap,
     .talent .p-talent__item.shirayuki .button-action__wrap,
     .talent .p-talent__item.himesaki .button-action__wrap,
-    .talent .p-talent__item.regrush .button-action__wrap,
+    .talent .p-talent__item.reglush .button-action__wrap,
     .talent .p-talent__item.kurumizawa .button-action__wrap,
     .talent .p-talent__item.kumagaya .button-action__wrap {
         letter-spacing: 0;
@@ -120,4 +120,9 @@ html[lang="en"] .cover__text {
     width: var(--width-6);
     font-size: var(--text-font-size);
     line-height: var(--text-line-height);
+}
+
+.talentDetail .description p {
+    width: var(--width-6);
+    white-space: pre-wrap;
 }

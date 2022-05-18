@@ -3,7 +3,7 @@
         <div class="globalFooter__wrap">
             <div class="globalFooter__about">
                 <p class="globalFooter__logo">
-                    <a class="globalFooter__logoLink" href=""><img class="globalFooter__logoImg" src="/img/common/logo_mono.svg" alt="のりプロ" loading="lazy"></a>
+                    <nuxt-link class="globalFooter__logoLink" to="/"><img class="globalFooter__logoImg" src="/img/common/logo_mono.svg" alt="のりプロ" loading="lazy"></nuxt-link>
                 </p>
                 <p class="globalFooter__description">【非公式翻訳】NoriPro Website English Mirror</p>
                 <ul class="globalFooter__accountList">
